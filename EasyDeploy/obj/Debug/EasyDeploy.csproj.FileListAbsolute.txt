@@ -1,0 +1,15 @@
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\MainWindow.g.cs
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\App.g.cs
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy_MarkupCompile.cache
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy_MarkupCompile.lref
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\bin\Debug\EasyDeploy.exe.config
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\bin\Debug\EasyDeploy.exe
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\bin\Debug\EasyDeploy.pdb
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\MainWindow.baml
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.g.resources
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.Properties.Resources.resources
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.csproj.GenerateResource.cache
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.csproj.CoreCompileInputs.cache
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.exe
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.pdb
+C:\Users\Aga\Documents\SoftDev\C#\EasyDeploy\EasyDeploy\obj\Debug\EasyDeploy.csprojAssemblyReference.cache
